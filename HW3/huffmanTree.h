@@ -1,1 +1,0 @@
-// Write the definition of the huffmanTree class here (OPTIONAL)
